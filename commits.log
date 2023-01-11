@@ -1,0 +1,104 @@
+commit 4e46a0e3e55160a9c446a21a5bd108daddbdd529
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Mon Jan 9 22:00:56 2023 -0500
+
+    Agregando 2 parrafos
+
+commit 5770d0a668056ad60d69d07e063449fdc836a511
+Merge: aabff3e a1168e5
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Mon Jan 9 21:56:39 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit aabff3eec34e1664c5cbfd2c6f24f35c46e1f3e3
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Mon Jan 9 21:32:27 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit a1168e5e90cf9dcb300a6319f65ec2ca12471192
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Mon Jan 9 21:32:27 2023 -0500
+
+    agrgeando las estaciones del año
+
+commit ecb7ec37c24c6e5ed7c778adca7b24106d0e3ed8
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 23:36:58 2023 -0500
+
+    resolviendo conflicto merge master/html en el documento index.html
+
+commit ffa331b82e79879c09577d2be53640fd2d3df480
+Merge: 21a3d37 15db7c8
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 23:28:54 2023 -0500
+
+    Merge branch 'html'
+
+commit 15db7c873c8e8f28a2c7b948e1da7891c85a94db
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 23:28:14 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 21a3d37d594c11375e37f26e13a5cdf12ee45584
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 23:24:33 2023 -0500
+
+    Agregando style.css al index.html
+
+commit dbcf51879f69375d1af42c73f8c76d96e79541b3
+Merge: 0e47ed4 568cfb3
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 23:06:27 2023 -0500
+
+    Merge branch 'js' agregando los archivos css
+
+commit 568cfb32788557b490fd0d659bd737f022f897e3
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 22:32:04 2023 -0500
+
+    creando index.js
+
+commit 0e47ed4dd2b780144b7a1c61e44e4132a717610c
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 22:26:35 2023 -0500
+
+    cerando styles.css
+
+commit 0ad69110b68d6cd0aa88422c805473aec5ad15f0
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Fri Jan 6 22:20:04 2023 -0500
+
+    creando index.html
+
+commit 8777aa584c9a2d6c06507d3babd5b7d2e954e5b9
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Thu Jan 5 23:12:37 2023 -0500
+
+    Ignorando archivos .exe
+
+commit bdea24d3fc83f730b5f162388c1f4154ac148877
+Author: Carlos Madrigal Ramos <38573824+kikemadrigalr@users.noreply.github.com>
+Date:   Thu Jan 5 22:30:31 2023 -0500
+
+    Creando licensia del repositorio
+
+commit ddc71c054dd232c7f68f1336a053c65431483a3b
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Thu Jan 5 22:23:08 2023 -0500
+
+    Agregando mas contenido al README
+
+commit 5ef64858837d35c66e735e07a942a3a5f06bd6e5
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Thu Jan 5 21:54:10 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit fc7ba801d96b068dda5aaf6fa6c8dd6cae48976e
+Author: kikemadrigal <carlosmad03@gmail.com>
+Date:   Thu Jan 5 21:47:03 2023 -0500
+
+    Primer commit :)
